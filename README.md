@@ -1,16 +1,25 @@
-## Hi there 👋
+# core beliefs
 
-<!--
-**codespaceDrifter/codespaceDrifter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## state
+i dont have to do anything at all  
+i can do whatever i want  
+my aesthetics is my only direction  
 
-Here are some ideas to get you started:
+## aesthetics
+i want to increase total freedom wellbeing and power  
+obviously this shatters into a hundred shards
+human rights, ai safety, automation enabled ubi, technomeat, whatever  
+also i want to be at the edge of knowledge of some niche area at least  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## agi
+intelligence is symbolic or neural  
+ai will achieve agi around 2030  
+agi will be way more powerful than me, working on anything else is stupid  
+
+## function
+i want a ai more powerful than me to be aligned to my aesthetics  
+i will work towards this in niche application areas and in general mech interp research  
+
+## death
+after agi, whatever happens happens  
+i dont have to do anything at all  
